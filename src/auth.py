@@ -15,10 +15,15 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-# Supabase configuration
-SUPABASE_URL = os.getenv("SUPABASE_URL", "YOUR_SUPABASE_PROJECT_URL")
-SUPABASE_KEY = os.getenv("SUPABASE_ANON_KEY", "YOUR_SUPABASE_ANON_KEY")
-DEMO_MODE = os.getenv("DEMO_MODE", "true").lower() == "true"
+# Supabase configuration - Try Streamlit secrets first, then environment variables
+try:
+    SUPABASE_URL = st.secrets.get("SUPABASE_URL", os.getenv("SUPABASE_URL", "YOUR_SUPABASE_PROJECT_URL"))
+    SUPABASE_KEY = st.secrets.get("SUPABASE_ANON_KEY", os.getenv("SUPABASE_ANON_KEY", "YOUR_SUPABASE_ANON_KEY"))
+    DEMO_MODE = str(st.secrets.get("DEMO_MODE", os.getenv("DEMO_MODE", "true"))).lower() == "true"
+except:
+    SUPABASE_URL = os.getenv("SUPABASE_URL", "YOUR_SUPABASE_PROJECT_URL")
+    SUPABASE_KEY = os.getenv("SUPABASE_ANON_KEY", "YOUR_SUPABASE_ANON_KEY")
+    DEMO_MODE = os.getenv("DEMO_MODE", "true").lower() == "true"
 
 class SupabaseAuth:
     def __init__(self, url: str = None, key: str = None):
