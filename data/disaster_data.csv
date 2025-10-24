@@ -1,0 +1,1001 @@
+year,disaster_type,state,city,people_affected,deaths,damages
+2006,drought,India,Mumbai,1068.0,29.0,176870.0
+2002,wildfire,India,Delhi,587.0,,497820.0
+2021,landslide,New York,Syracuse,1504.0,1.0,288356.0
+2018,drought,Philippines,Davao City,316.0,4.0,494312.0
+2003,flood,New York,Yonkers,926.0,11.0,489484.0
+2002,wildfire,California,San Diego,305.0,13.0,218719.0
+2017,earthquake,New York,Buffalo,8498.0,15.0,838374.0
+2020,landslide,Texas,San Antonio,2183.0,11.0,482108.0
+2012,flood,California,Santa Ana,486.0,25.0,4144113.0
+2008,drought,Philippines,Manila,1687.0,,1328614.0
+2002,drought,Indonesia,Jakarta,86.0,21.0,
+2009,drought,India,Mumbai,1457.0,8.0,328073.0
+2022,tsunami,India,Chennai,34009.0,69.0,5073740.0
+2011,drought,New York,Yonkers,1630.0,3.0,308729.0
+2019,landslide,California,Los Angeles,668.0,5.0,107433.0
+2021,flood,New York,Yonkers,661.0,11.0,1163738.0
+2004,flood,Indonesia,Palembang,645.0,11.0,5306373.0
+2005,tsunami,New York,New Rochelle,350.0,2.0,1199757.0
+2021,cyclone,Philippines,Davao City,1134.0,2.0,3102154.0
+2018,drought,Indonesia,Semarang,1024.0,6.0,819954.0
+2017,tsunami,Philippines,Cagayan de Oro,10099.0,3.0,4598266.0
+2011,landslide,India,Kolkata,2458.0,4.0,189735.0
+2021,flood,Indonesia,Jakarta,1438.0,33.0,1483329.0
+2000,drought,California,San Diego,196.0,4.0,145437.0
+2015,drought,Florida,Tallahassee,177.0,15.0,606761.0
+2020,wildfire,California,Oakland,705.0,17.0,656278.0
+2016,flood,New York,Syracuse,129.0,9.0,1780968.0
+2002,drought,California,San Diego,1103.0,3.0,97260.0
+2009,tsunami,Japan,Nagoya,7728.0,3.0,461138.0
+2008,cyclone,Japan,Fukuoka,445.0,5.0,157915.0
+2006,flood,New York,Buffalo,562.0,10.0,184855.0
+2021,earthquake,Texas,San Antonio,59905.0,5.0,1978350.0
+2004,tsunami,New York,New Rochelle,1699.0,2.0,1036889.0
+2018,flood,Indonesia,Surabaya,1820.0,,1047918.0
+2008,drought,India,Hyderabad,476.0,5.0,607900.0
+2015,landslide,Philippines,Zamboanga,132.0,1.0,2796043.0
+2013,drought,India,Lucknow,1338.0,13.0,
+2003,earthquake,New York,Syracuse,128.0,21.0,110662478.0
+2023,tsunami,Texas,Houston,4994.0,80.0,8135581.0
+2010,landslide,New York,Mount Vernon,1867.0,12.0,1277784.0
+2013,earthquake,India,Jaipur,294.0,107.0,577651.0
+2006,drought,Texas,San Antonio,3197.0,,368099.0
+2003,earthquake,India,Pune,49297.0,252.0,1299034.0
+2004,drought,California,San Francisco,975.0,3.0,975391.0
+2021,landslide,Florida,St. Petersburg,919.0,6.0,487475.0
+2019,cyclone,India,Lucknow,2239.0,107.0,1954215.0
+2016,landslide,Japan,Fukuoka,401.0,1.0,90975.0
+2016,tsunami,Philippines,Cagayan de Oro,3356.0,1.0,16259971.0
+2006,cyclone,Texas,Austin,459.0,1.0,603775.0
+2008,tsunami,California,San Francisco,317.0,42.0,3735190.0
+2005,landslide,Japan,Tokyo,832.0,7.0,487807.0
+2013,tsunami,Philippines,Davao City,934.0,121.0,
+2015,wildfire,New York,Syracuse,247.0,4.0,132042.0
+2003,cyclone,Japan,Osaka,7383.0,5.0,176180.0
+2002,landslide,Japan,Nagoya,3585.0,1.0,509940.0
+2017,tsunami,California,San Francisco,14125.0,1.0,24910714.0
+2001,flood,Florida,Tallahassee,1653.0,120.0,1764618.0
+2018,flood,India,Kolkata,1382.0,2.0,2286631.0
+2007,tsunami,Texas,Corpus Christi,30538.0,23.0,19171699.0
+2016,tsunami,Philippines,Zamboanga,,187.0,12197453.0
+2005,earthquake,Texas,Dallas,505.0,0.0,2182299.0
+2022,earthquake,Florida,Hialeah,8745.0,19.0,10795156.0
+2020,earthquake,India,Hyderabad,194.0,79.0,125201.0
+2003,drought,Indonesia,Bekasi,5075.0,6.0,1149850.0
+2018,landslide,India,Kolkata,294.0,4.0,105441.0
+2008,earthquake,California,San Francisco,,24.0,63097476.0
+2003,flood,Indonesia,Makassar,1357.0,12.0,3139673.0
+2001,landslide,Texas,Dallas,712.0,17.0,164730.0
+2012,earthquake,Texas,Austin,806.0,14.0,1028251.0
+2011,flood,California,San Diego,2189.0,92.0,3464114.0
+2014,wildfire,Texas,Corpus Christi,89.0,21.0,901174.0
+2005,landslide,California,Santa Ana,498.0,6.0,45344.0
+2023,tsunami,California,Fresno,69.0,56.0,5870086.0
+2023,wildfire,Florida,Orlando,610.0,9.0,2631626.0
+2021,drought,Florida,Hialeah,130.0,7.0,573620.0
+2003,landslide,Florida,Jacksonville,269.0,6.0,294354.0
+2012,earthquake,New York,Yonkers,2677.0,4.0,22580776.0
+2017,wildfire,India,Delhi,1058.0,8.0,378633.0
+2008,landslide,Japan,Fukuoka,483.0,5.0,761833.0
+2017,tsunami,Indonesia,Depok,14078.0,58.0,89762314.0
+2014,tsunami,Texas,Fort Worth,4244.0,63.0,355798.0
+2019,wildfire,Philippines,Quezon City,2087.0,4.0,662529.0
+2003,wildfire,Texas,Austin,3436.0,7.0,482644.0
+2014,landslide,Indonesia,Makassar,257.0,0.0,
+2003,drought,Texas,El Paso,2168.0,10.0,395548.0
+2010,drought,Texas,Austin,921.0,17.0,173422.0
+2004,landslide,Indonesia,Semarang,364.0,27.0,236234.0
+2021,tsunami,Florida,Tallahassee,1417.0,163.0,1160545.0
+2002,tsunami,New York,Mount Vernon,288.0,,4164179.0
+2006,drought,Japan,Yokohama,,5.0,887537.0
+2020,flood,Philippines,Cebu City,420.0,9.0,1203613.0
+2023,cyclone,Japan,Yokohama,1325.0,2.0,6979359.0
+2018,tsunami,Texas,Austin,298.0,1331.0,35590025.0
+2002,earthquake,Texas,Fort Worth,2901.0,,45281343.0
+2007,flood,California,Santa Ana,2607.0,3.0,640866.0
+2023,wildfire,Indonesia,Makassar,1085.0,5.0,153655.0
+2000,tsunami,India,Pune,23180.0,84.0,4596897.0
+2022,drought,New York,Albany,1405.0,24.0,226377.0
+2021,drought,Indonesia,Bekasi,640.0,22.0,
+2007,earthquake,India,Bangalore,3734.0,7.0,1745908.0
+2012,earthquake,Philippines,Pasig,3998.0,4.0,6030733.0
+2009,wildfire,India,Ahmedabad,121.0,37.0,2127577.0
+2020,drought,Japan,Osaka,104.0,,512577.0
+2003,flood,Florida,Jacksonville,839.0,10.0,2341200.0
+2003,tsunami,New York,Buffalo,1257.0,24.0,152111871.0
+2008,flood,California,San Diego,977.0,30.0,8215111.0
+2011,drought,Florida,Tampa,488.0,3.0,859182.0
+2018,tsunami,India,Pune,13564.0,138.0,16083665.0
+2014,cyclone,Texas,San Antonio,1836.0,15.0,
+2008,cyclone,Indonesia,Depok,236.0,62.0,781269.0
+2009,tsunami,California,Santa Ana,825.0,1227.0,3683915.0
+2023,flood,New York,Mount Vernon,3699.0,53.0,3279735.0
+2001,tsunami,Florida,St. Petersburg,1546.0,3.0,160942379.0
+2006,drought,India,Jaipur,347.0,4.0,333772.0
+2004,flood,Indonesia,Jakarta,817.0,4.0,552239.0
+2023,cyclone,Japan,Osaka,2870.0,10.0,545088.0
+2013,earthquake,Florida,St. Petersburg,1597.0,17.0,7080883.0
+2016,landslide,Florida,Hialeah,2195.0,1.0,10505102.0
+2012,landslide,Philippines,Quezon City,3125.0,44.0,239716.0
+2008,tsunami,Indonesia,Medan,1666.0,5.0,3825129.0
+2004,earthquake,Texas,Arlington,8451.0,4.0,17655.0
+2001,cyclone,India,Bangalore,385.0,14.0,9602986.0
+2015,flood,India,Ahmedabad,1605.0,5.0,1519395.0
+2009,earthquake,Indonesia,Jakarta,2349.0,,2600704.0
+2011,tsunami,Texas,Fort Worth,3970.0,21.0,425157.0
+2005,cyclone,Japan,Sendai,2685.0,50.0,905621.0
+2021,drought,New York,Rochester,552.0,4.0,307749.0
+2017,earthquake,Japan,Sendai,3873.0,415.0,1077537.0
+2000,wildfire,Philippines,Quezon City,594.0,2.0,483570.0
+2014,wildfire,New York,Syracuse,2134.0,5.0,140511.0
+2005,cyclone,California,Sacramento,1038.0,16.0,
+2011,earthquake,Philippines,Caloocan,5054.0,42.0,3130216.0
+2014,cyclone,Japan,Fukuoka,2371.0,60.0,1522440.0
+2016,wildfire,New York,Rochester,1351.0,1.0,322514.0
+2020,earthquake,Indonesia,Palembang,56626.0,11.0,5350727.0
+2005,flood,Indonesia,Palembang,1005.0,3.0,1135684.0
+2015,wildfire,Japan,Tokyo,1124.0,43.0,
+2021,tsunami,Texas,El Paso,3154.0,88.0,8326591.0
+2010,landslide,Florida,Fort Lauderdale,706.0,3.0,889329.0
+2006,cyclone,New York,New York City,1758.0,61.0,
+2013,cyclone,Texas,San Antonio,501.0,6.0,818790.0
+2022,landslide,Philippines,Zamboanga,1016.0,1.0,1466581.0
+2018,cyclone,India,Kolkata,218.0,7.0,802954.0
+2004,drought,New York,Yonkers,945.0,7.0,2148397.0
+2020,earthquake,Indonesia,Jakarta,257.0,8.0,10861634.0
+2014,flood,Florida,Orlando,1359.0,22.0,1644272.0
+2022,landslide,India,Lucknow,272.0,6.0,2213460.0
+2016,cyclone,California,San Francisco,152.0,,843812.0
+2003,landslide,Philippines,Quezon City,572.0,19.0,244922.0
+2007,cyclone,New York,Mount Vernon,105.0,5.0,251302.0
+2011,landslide,California,San Francisco,416.0,44.0,
+2008,tsunami,India,Jaipur,15277.0,25.0,1596748.0
+2000,flood,Florida,Tampa,1296.0,20.0,1024488.0
+2019,tsunami,Indonesia,Bandung,15196.0,6.0,6977077.0
+2005,landslide,Philippines,Taguig,600.0,7.0,863257.0
+2013,drought,California,San Diego,396.0,13.0,141067.0
+2001,earthquake,Indonesia,Medan,1804.0,27.0,1320461.0
+2018,wildfire,Texas,Arlington,479.0,5.0,939286.0
+2006,flood,India,Chennai,236.0,1.0,415735.0
+2011,wildfire,Texas,Austin,3141.0,38.0,1214468.0
+2007,earthquake,Japan,Sapporo,370.0,1.0,15155220.0
+2017,drought,Florida,Tallahassee,7629.0,5.0,654799.0
+2021,cyclone,Texas,El Paso,1908.0,203.0,2251038.0
+2017,earthquake,California,Anaheim,4065.0,4.0,2333897.0
+2012,tsunami,Philippines,Pasig,273.0,38.0,3174127.0
+2009,tsunami,Florida,Fort Lauderdale,6827.0,122.0,5815034.0
+2009,earthquake,California,San Francisco,3884.0,29.0,288567.0
+2006,earthquake,California,Sacramento,5232.0,8.0,6251231.0
+2011,earthquake,California,Sacramento,18711.0,229.0,325975.0
+2001,cyclone,Philippines,Quezon City,,5.0,11708120.0
+2023,drought,Japan,Fukuoka,127.0,21.0,523935.0
+2008,flood,Florida,Jacksonville,1483.0,3.0,14591286.0
+2020,wildfire,Indonesia,Makassar,222.0,,113862.0
+2002,earthquake,Philippines,Pasig,2244.0,23.0,1177223.0
+2022,earthquake,Japan,Nagoya,89.0,9.0,1056056.0
+2007,tsunami,Indonesia,Makassar,9739.0,25.0,132038081.0
+2022,earthquake,India,Chennai,297.0,3.0,3577030.0
+2017,tsunami,Japan,Tokyo,266.0,34.0,26778455.0
+2016,earthquake,Japan,Osaka,27288.0,102.0,46796489.0
+2014,landslide,Florida,Jacksonville,862.0,4.0,256843.0
+2001,flood,India,Chennai,1064.0,32.0,6377259.0
+2012,landslide,Texas,San Antonio,1161.0,7.0,751399.0
+2013,drought,Texas,Houston,882.0,3.0,759269.0
+2018,earthquake,Texas,El Paso,435.0,25.0,1971629.0
+2008,drought,Japan,Osaka,1151.0,2.0,2025186.0
+2019,drought,New York,Yonkers,2561.0,1.0,353357.0
+2004,landslide,Japan,Sapporo,645.0,6.0,299070.0
+2006,landslide,California,Anaheim,655.0,7.0,789607.0
+2019,tsunami,India,Chennai,8942.0,3.0,6351550.0
+2016,flood,Indonesia,Palembang,4661.0,21.0,1468839.0
+2017,earthquake,Indonesia,Bandung,7203.0,43.0,85172.0
+2022,landslide,Florida,Fort Lauderdale,603.0,8.0,
+2010,flood,India,Chennai,217.0,3.0,5078348.0
+2004,landslide,Japan,Hiroshima,344.0,13.0,1641562.0
+2003,wildfire,California,Santa Ana,647.0,13.0,324957.0
+2012,landslide,Indonesia,Bekasi,1322.0,,178384.0
+2017,wildfire,New York,Buffalo,533.0,5.0,601635.0
+2016,drought,California,San Francisco,1503.0,2.0,810607.0
+2022,drought,Indonesia,Depok,2048.0,3.0,593934.0
+2019,cyclone,Texas,El Paso,139.0,7.0,389189.0
+2002,tsunami,Japan,Kobe,13398.0,27.0,545942.0
+2002,flood,New York,New Rochelle,829.0,57.0,724057.0
+2006,cyclone,Florida,Fort Lauderdale,4609.0,5.0,
+2013,flood,Texas,Houston,1116.0,2.0,318835.0
+2004,earthquake,New York,Buffalo,18326.0,50.0,
+2009,wildfire,Japan,Tokyo,465.0,4.0,135837.0
+2002,landslide,Indonesia,Depok,4278.0,48.0,2260121.0
+2016,tsunami,Japan,Fukuoka,12514.0,15.0,1656401.0
+2018,landslide,New York,Buffalo,286.0,6.0,715015.0
+2012,flood,California,Sacramento,213.0,2.0,1179989.0
+2006,flood,Texas,Austin,609.0,3.0,1424118.0
+2013,earthquake,Florida,Orlando,210.0,11.0,5972385.0
+2005,earthquake,New York,Mount Vernon,3462.0,25.0,1629069.0
+2020,wildfire,Indonesia,Bandung,470.0,2.0,170483.0
+2009,flood,India,Pune,1351.0,9.0,1404058.0
+2006,wildfire,Philippines,Caloocan,407.0,10.0,2397395.0
+2011,wildfire,California,Fresno,219.0,13.0,116639.0
+2008,flood,Texas,Corpus Christi,19885.0,5.0,454838.0
+2001,drought,Texas,Austin,793.0,5.0,193379.0
+2001,wildfire,Indonesia,Surabaya,724.0,4.0,3301902.0
+2023,tsunami,Indonesia,Semarang,3322.0,19.0,3202991.0
+2003,wildfire,New York,Buffalo,2856.0,2.0,700463.0
+2016,tsunami,Texas,Houston,1992.0,7.0,1043203.0
+2017,cyclone,Florida,Jacksonville,177.0,1.0,1530005.0
+2022,flood,Philippines,Quezon City,1961.0,4.0,555564.0
+2007,wildfire,California,Sacramento,1863.0,4.0,264152.0
+2003,wildfire,Japan,Yokohama,805.0,9.0,745116.0
+2012,earthquake,New York,New Rochelle,3007.0,15.0,
+2000,drought,California,Anaheim,297.0,13.0,580110.0
+2010,earthquake,Philippines,Taguig,4704.0,0.0,1313580.0
+2015,landslide,New York,Yonkers,523.0,5.0,299012.0
+2015,wildfire,California,Santa Ana,264.0,11.0,
+2001,earthquake,Florida,Jacksonville,746.0,42.0,12016249.0
+2020,landslide,Japan,Yokohama,455.0,15.0,862388.0
+2022,cyclone,Florida,Tallahassee,141.0,0.0,1424019.0
+2019,flood,California,Los Angeles,4108.0,23.0,3477072.0
+2008,cyclone,New York,New Rochelle,2419.0,7.0,1807431.0
+2000,drought,California,Fresno,348.0,,2038497.0
+2013,wildfire,California,Anaheim,401.0,16.0,87028.0
+2015,drought,India,Kolkata,405.0,41.0,
+2001,flood,Indonesia,Depok,589.0,16.0,1098011.0
+2021,landslide,Florida,Fort Lauderdale,1596.0,13.0,1468362.0
+2011,landslide,Florida,Tampa,752.0,12.0,462130.0
+2016,landslide,New York,Yonkers,3622.0,6.0,599986.0
+2002,wildfire,Florida,St. Petersburg,7978.0,,1409880.0
+2000,earthquake,Philippines,Davao City,3574.0,2.0,
+2023,landslide,California,Los Angeles,759.0,,537871.0
+2010,landslide,Philippines,Cagayan de Oro,1794.0,1.0,69010.0
+2011,landslide,Indonesia,Palembang,410.0,8.0,2218231.0
+2017,landslide,Florida,Jacksonville,1630.0,18.0,495795.0
+2001,tsunami,India,Hyderabad,10031.0,31.0,3553214.0
+2002,drought,Japan,Tokyo,8491.0,9.0,2389606.0
+2008,wildfire,New York,New York City,288.0,6.0,982891.0
+2023,flood,Japan,Kyoto,866.0,42.0,804137.0
+2005,earthquake,Japan,Hiroshima,1283.0,2.0,87420270.0
+2021,drought,New York,Rochester,167.0,29.0,9695332.0
+2000,flood,Philippines,Manila,1441.0,0.0,5544784.0
+2007,earthquake,Indonesia,Palembang,1411.0,194.0,69269654.0
+2023,cyclone,Florida,Miami,131.0,2.0,439839.0
+2004,earthquake,New York,Rochester,1532.0,0.0,523867.0
+2014,wildfire,New York,Buffalo,138.0,2.0,134064.0
+2022,cyclone,Florida,Miami,1301.0,23.0,3330123.0
+2020,drought,Florida,Orlando,1739.0,1.0,372553.0
+2016,cyclone,New York,New Rochelle,290.0,45.0,12610204.0
+2004,flood,India,Mumbai,8081.0,,589171.0
+2004,flood,Indonesia,Makassar,88.0,6.0,1149884.0
+2011,drought,New York,Yonkers,17234.0,2.0,72050.0
+2016,cyclone,India,Lucknow,11199.0,51.0,802688.0
+2015,tsunami,California,Los Angeles,642.0,,625670.0
+2022,earthquake,Indonesia,Makassar,833.0,578.0,6518181.0
+2002,wildfire,California,San Francisco,389.0,17.0,740471.0
+2008,tsunami,California,Santa Ana,8720.0,7.0,5228726.0
+2003,wildfire,Philippines,Cagayan de Oro,301.0,,66595.0
+2015,wildfire,New York,Albany,823.0,6.0,217603.0
+2007,tsunami,Japan,Sapporo,3259.0,12.0,
+2018,flood,California,Sacramento,4643.0,27.0,1957741.0
+2019,earthquake,Japan,Fukuoka,10562.0,46.0,4661615.0
+2017,drought,Philippines,Davao City,2616.0,,171529.0
+2016,earthquake,India,Kolkata,8440.0,220.0,4345135.0
+2010,flood,California,Santa Ana,3235.0,29.0,669417.0
+2012,cyclone,California,San Diego,446.0,18.0,1321156.0
+2014,tsunami,India,Kolkata,1296.0,15.0,4409323.0
+2008,landslide,New York,Mount Vernon,662.0,2.0,1182430.0
+2002,drought,California,Oakland,488.0,5.0,613797.0
+2008,flood,Japan,Osaka,2995.0,,2617590.0
+2003,earthquake,Florida,Jacksonville,9262.0,11.0,62273253.0
+2012,flood,California,Anaheim,361.0,13.0,328128.0
+2013,earthquake,Florida,Miami,9728.0,5.0,19638533.0
+2003,earthquake,New York,Buffalo,507.0,106.0,9559748.0
+2020,earthquake,Florida,Orlando,8754.0,,1382767.0
+2006,drought,California,Fresno,784.0,7.0,526150.0
+2003,cyclone,India,Bangalore,1469.0,14.0,2578904.0
+2003,earthquake,Indonesia,Tangerang,3950.0,1.0,22701011.0
+2011,tsunami,Texas,San Antonio,22544.0,137.0,7546063.0
+2007,drought,Philippines,Davao City,2044.0,12.0,380250.0
+2013,earthquake,Texas,El Paso,5567.0,19.0,
+2005,cyclone,Texas,Fort Worth,2405.0,15.0,1686358.0
+2005,landslide,Indonesia,Bandung,3191.0,9.0,880255.0
+2011,wildfire,California,Anaheim,134.0,,3349459.0
+2003,drought,Florida,St. Petersburg,170.0,7.0,783943.0
+2007,wildfire,Indonesia,Makassar,1366.0,2.0,170001.0
+2008,landslide,Texas,Houston,1066.0,13.0,359519.0
+2007,earthquake,Philippines,Pasig,839.0,,12308391.0
+2022,cyclone,Texas,Fort Worth,844.0,808.0,207713.0
+2002,cyclone,California,San Francisco,2805.0,2.0,132138.0
+2019,drought,Philippines,Caloocan,3328.0,12.0,853861.0
+2023,landslide,California,Fresno,3581.0,4.0,63994.0
+2006,tsunami,Philippines,Quezon City,37541.0,15.0,13026224.0
+2019,landslide,India,Mumbai,1402.0,1.0,485133.0
+2000,cyclone,Philippines,Pasig,750.0,6.0,3795296.0
+2002,earthquake,California,San Diego,,32.0,1534523.0
+2021,wildfire,India,Kolkata,613.0,2.0,
+2011,wildfire,Florida,St. Petersburg,1295.0,11.0,78762.0
+2013,flood,Japan,Kyoto,486.0,28.0,488282.0
+2022,tsunami,Texas,Austin,216.0,24.0,2008381.0
+2020,landslide,Japan,Fukuoka,6636.0,54.0,9918562.0
+2007,tsunami,Indonesia,Bekasi,1975.0,,2403927.0
+2019,drought,India,Kolkata,621.0,10.0,282442.0
+2016,cyclone,Texas,Corpus Christi,2526.0,33.0,
+2013,earthquake,India,Kolkata,2677.0,21.0,262308913.0
+2020,flood,India,Delhi,315.0,11.0,1505441.0
+2021,cyclone,California,San Francisco,1445.0,9.0,683860.0
+2018,earthquake,New York,New Rochelle,473.0,10.0,9015583.0
+2023,cyclone,California,Fresno,929.0,107.0,546386.0
+2003,flood,India,Delhi,4191.0,69.0,780958.0
+2017,tsunami,Texas,Houston,407.0,2.0,3671866.0
+2004,earthquake,Texas,El Paso,186.0,4.0,346350.0
+2023,earthquake,Japan,Yokohama,1124.0,,4261924.0
+2021,drought,New York,Syracuse,2976.0,25.0,1454119.0
+2001,landslide,New York,Rochester,1832.0,6.0,161622.0
+2020,cyclone,Indonesia,Semarang,3853.0,49.0,913219.0
+2000,earthquake,New York,New Rochelle,2792.0,11.0,6142108.0
+2017,cyclone,Japan,Sendai,1437.0,7.0,1027082.0
+2018,drought,California,Los Angeles,1519.0,2.0,881788.0
+2022,tsunami,Indonesia,Surabaya,1045.0,5.0,42182720.0
+2015,tsunami,Texas,San Antonio,1898.0,42.0,6635890.0
+2009,wildfire,California,San Diego,310.0,7.0,876181.0
+2000,wildfire,India,Jaipur,539.0,20.0,349033.0
+2017,drought,Florida,Jacksonville,447.0,29.0,1980845.0
+2006,landslide,Florida,Hialeah,665.0,3.0,
+2005,wildfire,India,Lucknow,1466.0,10.0,782784.0
+2023,earthquake,Philippines,Pasig,12737.0,2.0,449689.0
+2022,landslide,New York,Rochester,162.0,3.0,211390.0
+2006,wildfire,California,Santa Ana,223.0,18.0,716897.0
+2021,flood,India,Bangalore,7432.0,5.0,921128.0
+2004,wildfire,New York,New York City,59.0,10.0,70367.0
+2018,wildfire,Texas,Fort Worth,2036.0,46.0,342887.0
+2018,wildfire,Philippines,Zamboanga,474.0,9.0,459655.0
+2002,earthquake,Indonesia,Jakarta,2982.0,2.0,14989224.0
+2016,landslide,Indonesia,Tangerang,522.0,3.0,294165.0
+2016,cyclone,Philippines,Davao City,43.0,16.0,1138428.0
+2015,flood,Japan,Nagoya,437.0,43.0,3220061.0
+2011,cyclone,Japan,Osaka,3839.0,516.0,
+2007,earthquake,Florida,Hialeah,18453.0,71.0,112382.0
+2012,earthquake,Texas,Arlington,1915.0,151.0,649002.0
+2003,cyclone,New York,Rochester,479.0,10.0,748355.0
+2016,flood,New York,Yonkers,1242.0,6.0,6732943.0
+2019,flood,Florida,Tampa,77.0,27.0,399668.0
+2005,landslide,Texas,Dallas,1260.0,1.0,1922281.0
+2011,earthquake,India,Pune,1742.0,6.0,31268551.0
+2001,wildfire,Japan,Tokyo,1707.0,17.0,3532018.0
+2016,wildfire,Japan,Yokohama,2755.0,8.0,419648.0
+2020,earthquake,Japan,Fukuoka,14172.0,42.0,2585008.0
+2019,drought,California,Santa Ana,2460.0,6.0,99984.0
+2014,landslide,New York,Yonkers,466.0,30.0,473539.0
+2017,earthquake,Indonesia,Medan,348.0,48.0,12515932.0
+2009,cyclone,India,Bangalore,323.0,9.0,1147195.0
+2015,landslide,Florida,Miami,,2.0,1346959.0
+2002,landslide,India,Pune,3408.0,42.0,2594156.0
+2023,cyclone,Japan,Tokyo,607.0,18.0,96757.0
+2003,wildfire,California,Anaheim,1328.0,36.0,414097.0
+2022,cyclone,India,Chennai,500.0,128.0,1207949.0
+2018,flood,Indonesia,Bekasi,220.0,7.0,1344719.0
+2017,flood,Philippines,Taguig,577.0,33.0,2190673.0
+2023,earthquake,Japan,Fukuoka,4281.0,3.0,5835584.0
+2021,drought,Indonesia,Medan,542.0,3.0,381167.0
+2010,tsunami,Indonesia,Bekasi,18383.0,9.0,1322703.0
+2014,tsunami,India,Chennai,1147.0,5.0,179216.0
+2018,wildfire,Florida,Jacksonville,557.0,1.0,270721.0
+2007,drought,Indonesia,Bekasi,500.0,2.0,156053.0
+2016,drought,India,Pune,455.0,10.0,1067877.0
+2022,cyclone,New York,Albany,,74.0,1046466.0
+2022,flood,California,Fresno,264.0,0.0,2304122.0
+2014,tsunami,Philippines,Quezon City,34952.0,3.0,1545601.0
+2011,wildfire,Florida,St. Petersburg,1722.0,5.0,80509.0
+2012,landslide,California,Oakland,263.0,9.0,126107.0
+2003,drought,Philippines,Pasig,276.0,19.0,558268.0
+2005,tsunami,Indonesia,Depok,2143.0,7.0,10865704.0
+2004,wildfire,New York,Albany,7937.0,71.0,1970776.0
+2019,landslide,California,Los Angeles,1127.0,,246565.0
+2012,tsunami,Japan,Osaka,4620.0,15.0,113851.0
+2017,tsunami,California,Fresno,123.0,9.0,26232421.0
+2020,tsunami,California,San Diego,9436.0,,
+2019,flood,Japan,Kyoto,121964.0,26.0,2984289.0
+2012,wildfire,California,Fresno,1605.0,35.0,2994864.0
+2007,tsunami,Indonesia,Jakarta,10896.0,108.0,957799.0
+2018,cyclone,Indonesia,Surabaya,249.0,3.0,1388786.0
+2001,wildfire,Philippines,Cagayan de Oro,445.0,10.0,754190.0
+2019,earthquake,Indonesia,Depok,11093.0,182.0,1321171.0
+2007,flood,Philippines,Zamboanga,832.0,6.0,300849.0
+2015,drought,Philippines,Zamboanga,724.0,0.0,366995.0
+2009,cyclone,Florida,Tallahassee,155.0,9.0,7091931.0
+2022,tsunami,Texas,San Antonio,890.0,91.0,1273683.0
+2020,flood,New York,New Rochelle,745.0,7.0,1968965.0
+2013,drought,Philippines,Cagayan de Oro,1654.0,8.0,1565485.0
+2021,tsunami,Indonesia,Bekasi,837.0,162.0,151193.0
+2004,earthquake,India,Kolkata,637.0,17.0,
+2011,drought,Philippines,Manila,337.0,14.0,975300.0
+2008,tsunami,Philippines,Antipolo,170.0,5.0,1757831.0
+2009,wildfire,Texas,Houston,4392.0,5.0,512287.0
+2016,flood,Japan,Sendai,1539.0,8.0,2775879.0
+2014,wildfire,India,Jaipur,523.0,3.0,
+2016,tsunami,California,Sacramento,2863.0,9.0,584795.0
+2013,wildfire,India,Hyderabad,486.0,9.0,178615.0
+2018,drought,New York,New Rochelle,2119.0,5.0,677042.0
+2003,landslide,Japan,Osaka,2202.0,1.0,597140.0
+2015,drought,Indonesia,Tangerang,200.0,5.0,515607.0
+2008,tsunami,India,Lucknow,13728.0,28.0,9240292.0
+2017,earthquake,India,Hyderabad,34185.0,9.0,2088809.0
+2013,drought,New York,Buffalo,874.0,6.0,603196.0
+2004,earthquake,New York,Syracuse,19466.0,28.0,14703920.0
+2021,wildfire,Florida,St. Petersburg,,28.0,275310.0
+2011,tsunami,Japan,Kobe,209.0,7.0,2434414.0
+2001,landslide,Indonesia,Tangerang,1718.0,14.0,1052827.0
+2013,cyclone,New York,New Rochelle,1046.0,11.0,329639.0
+2017,wildfire,Florida,St. Petersburg,271.0,6.0,431135.0
+2011,cyclone,Philippines,Pasig,137.0,73.0,1263745.0
+2006,tsunami,Philippines,Caloocan,5793.0,123.0,2183577.0
+2020,landslide,Texas,Austin,91.0,,870967.0
+2002,tsunami,New York,New Rochelle,932.0,29.0,551775.0
+2019,flood,Japan,Kobe,334.0,9.0,1911826.0
+2010,wildfire,Japan,Yokohama,451.0,2.0,128782.0
+2005,wildfire,New York,Syracuse,767.0,,
+2012,earthquake,California,Santa Ana,67636.0,4.0,3330775.0
+2020,landslide,Philippines,Pasig,,0.0,2063142.0
+2010,flood,Florida,Jacksonville,4134.0,3.0,533708.0
+2011,cyclone,Texas,Fort Worth,636.0,35.0,3548189.0
+2019,wildfire,New York,Syracuse,3599.0,7.0,305140.0
+2021,earthquake,Philippines,Davao City,519.0,50.0,5694459.0
+2001,drought,Indonesia,Depok,,,432536.0
+2001,flood,Florida,Hialeah,1021.0,104.0,4878095.0
+2019,landslide,Philippines,Taguig,1107.0,1.0,1275346.0
+2003,landslide,New York,Mount Vernon,,8.0,1442998.0
+2015,cyclone,India,Ahmedabad,4415.0,4.0,
+2016,landslide,Philippines,Davao City,276.0,5.0,557627.0
+2013,tsunami,Florida,Fort Lauderdale,7861.0,,4269665.0
+2019,cyclone,India,Bangalore,5424.0,15.0,7806485.0
+2000,drought,New York,Buffalo,224.0,,368115.0
+2020,tsunami,California,Fresno,16658.0,19.0,39322642.0
+2011,drought,New York,Albany,1460.0,16.0,236901.0
+2010,landslide,India,Mumbai,312.0,21.0,1876112.0
+2015,cyclone,Texas,Austin,1046.0,36.0,486651.0
+2014,tsunami,Philippines,Cebu City,15612.0,40.0,3257251.0
+2009,drought,California,Sacramento,368.0,10.0,1601583.0
+2003,flood,New York,Yonkers,473.0,49.0,1272228.0
+2021,wildfire,California,San Diego,1335.0,2.0,2254567.0
+2021,flood,Philippines,Manila,1424.0,,1082026.0
+2013,cyclone,Japan,Tokyo,1645.0,3.0,158766.0
+2009,cyclone,Philippines,Davao City,11984.0,4.0,1479229.0
+2006,landslide,Texas,Corpus Christi,1108.0,3.0,308171.0
+2010,wildfire,Texas,San Antonio,5796.0,24.0,547202.0
+2010,cyclone,Indonesia,Semarang,3760.0,1.0,458910.0
+2003,landslide,California,Santa Ana,876.0,0.0,237144.0
+2020,tsunami,Philippines,Cagayan de Oro,656.0,38.0,73249.0
+2000,earthquake,India,Chennai,1230.0,71.0,2514496.0
+2002,tsunami,Florida,Tallahassee,598.0,2.0,
+2003,cyclone,Texas,Corpus Christi,4314.0,6.0,5515137.0
+2022,cyclone,Indonesia,Depok,1415.0,9.0,
+2004,tsunami,India,Chennai,9767.0,9.0,
+2009,drought,India,Bangalore,1396.0,6.0,252557.0
+2022,earthquake,New York,New York City,14520.0,1243.0,1509799.0
+2021,flood,India,Mumbai,744.0,,3220864.0
+2013,wildfire,California,Santa Ana,,8.0,316861.0
+2018,cyclone,Indonesia,Bekasi,325.0,7.0,1113455.0
+2002,earthquake,Indonesia,Bandung,1825.0,14.0,6881166.0
+2011,tsunami,India,Jaipur,1335.0,181.0,21979586.0
+2013,wildfire,India,Ahmedabad,6680.0,,870347.0
+2000,cyclone,New York,New York City,6206.0,6.0,14551615.0
+2021,drought,Indonesia,Palembang,244.0,5.0,1737744.0
+2010,earthquake,Philippines,Davao City,516.0,3.0,7719278.0
+2014,cyclone,Texas,San Antonio,1159.0,10.0,4980550.0
+2012,landslide,California,Anaheim,292.0,4.0,92239.0
+2017,flood,Japan,Yokohama,3614.0,4.0,1298863.0
+2023,cyclone,Texas,Corpus Christi,711.0,4.0,810835.0
+2016,drought,Japan,Sendai,120.0,16.0,1435259.0
+2009,cyclone,California,Oakland,1961.0,22.0,608647.0
+2020,earthquake,Japan,Hiroshima,,2.0,1151363.0
+2007,flood,India,Lucknow,364.0,3.0,404256.0
+2004,drought,Philippines,Pasig,707.0,7.0,297297.0
+2020,cyclone,Florida,Tallahassee,750.0,142.0,1203590.0
+2001,wildfire,Indonesia,Palembang,1164.0,8.0,1207879.0
+2011,tsunami,California,Anaheim,1042.0,120.0,12509148.0
+2002,earthquake,Florida,Tampa,852.0,63.0,323126.0
+2003,tsunami,California,Anaheim,1153.0,,576385.0
+2007,earthquake,New York,Mount Vernon,238262.0,5.0,1142833.0
+2022,flood,Japan,Sapporo,3162.0,3.0,1245345.0
+2013,cyclone,Texas,Austin,295.0,30.0,3748382.0
+2007,wildfire,New York,Syracuse,328.0,,475857.0
+2005,tsunami,New York,Mount Vernon,6692.0,87.0,521886.0
+2015,landslide,Indonesia,Bekasi,3621.0,4.0,606043.0
+2016,drought,Indonesia,Medan,533.0,2.0,475786.0
+2014,landslide,California,Anaheim,802.0,4.0,
+2000,earthquake,Japan,Osaka,432.0,,2643185.0
+2013,cyclone,Japan,Sapporo,241.0,15.0,612841.0
+2020,wildfire,Florida,Orlando,1093.0,21.0,133292.0
+2001,wildfire,Japan,Sapporo,65.0,7.0,451829.0
+2007,flood,India,Hyderabad,465.0,22.0,1769157.0
+2017,cyclone,Florida,Hialeah,1341.0,69.0,
+2015,earthquake,Philippines,Pasig,19521.0,10.0,1157328.0
+2022,wildfire,Florida,Miami,92.0,4.0,461140.0
+2005,wildfire,Texas,Dallas,523.0,18.0,291994.0
+2009,cyclone,Indonesia,Bandung,2384.0,2.0,1456711.0
+2021,cyclone,New York,Yonkers,1505.0,92.0,695699.0
+2022,flood,Philippines,Antipolo,3491.0,,1764819.0
+2019,landslide,India,Bangalore,606.0,2.0,234014.0
+2000,drought,Texas,Austin,1011.0,7.0,564072.0
+2013,wildfire,Indonesia,Surabaya,261.0,13.0,1550849.0
+2014,landslide,Texas,Arlington,544.0,,73636.0
+2011,cyclone,Texas,Arlington,2140.0,10.0,1951605.0
+2013,landslide,Texas,El Paso,383.0,2.0,720398.0
+2002,earthquake,Indonesia,Palembang,50766.0,55.0,4333549.0
+2016,flood,Texas,Corpus Christi,2457.0,4.0,351515.0
+2014,wildfire,Florida,Tallahassee,572.0,1.0,261800.0
+2022,drought,Japan,Tokyo,1089.0,5.0,380294.0
+2012,wildfire,Indonesia,Bekasi,660.0,5.0,305022.0
+2007,earthquake,Florida,Tallahassee,999.0,90.0,3924392.0
+2015,drought,India,Pune,221.0,1.0,211214.0
+2010,drought,California,Los Angeles,2190.0,5.0,83294.0
+2013,drought,California,Santa Ana,430.0,11.0,491817.0
+2002,cyclone,California,Anaheim,2950.0,51.0,617621.0
+2015,landslide,Japan,Tokyo,587.0,4.0,254145.0
+2015,tsunami,California,Oakland,54719.0,28.0,
+2002,drought,New York,Syracuse,3284.0,1.0,239424.0
+2001,drought,Texas,Arlington,1697.0,15.0,134933.0
+2013,cyclone,Philippines,Antipolo,2807.0,20.0,151841.0
+2003,wildfire,Texas,Austin,317.0,10.0,1308549.0
+2018,wildfire,New York,Mount Vernon,2630.0,2.0,971507.0
+2002,landslide,Japan,Nagoya,386.0,39.0,499572.0
+2002,tsunami,Japan,Sapporo,3209.0,63.0,1312783.0
+2003,earthquake,India,Pune,5139.0,178.0,346521.0
+2016,earthquake,Texas,Corpus Christi,15904.0,192.0,2248904.0
+2009,landslide,New York,New York City,8116.0,6.0,193690.0
+2020,drought,Texas,Arlington,668.0,,1444432.0
+2022,wildfire,Texas,El Paso,281.0,4.0,523870.0
+2005,landslide,California,Santa Ana,310.0,6.0,216411.0
+2010,tsunami,Texas,Dallas,1194.0,117.0,2376482.0
+2002,cyclone,Texas,Corpus Christi,118.0,31.0,532654.0
+2010,earthquake,Texas,Dallas,1849.0,30.0,15008695.0
+2004,wildfire,Florida,Jacksonville,296.0,,741882.0
+2004,earthquake,Japan,Kobe,2138.0,4.0,1153458.0
+2001,cyclone,New York,New York City,4261.0,13.0,
+2008,tsunami,India,Mumbai,1839.0,61.0,4969857.0
+2009,tsunami,Philippines,Antipolo,500.0,97.0,7709850.0
+2004,tsunami,India,Bangalore,1035.0,3.0,2793517.0
+2015,wildfire,India,Ahmedabad,990.0,,97511.0
+2019,wildfire,New York,Rochester,270.0,2.0,1831240.0
+2023,flood,Indonesia,Jakarta,2390.0,32.0,990666.0
+2017,drought,California,Fresno,356.0,14.0,118294.0
+2022,earthquake,California,Santa Ana,561.0,19.0,973678.0
+2000,tsunami,Indonesia,Tangerang,667.0,28.0,
+2022,wildfire,New York,Yonkers,1256.0,1.0,498469.0
+2014,cyclone,Florida,Fort Lauderdale,1011.0,10.0,4775987.0
+2003,wildfire,New York,Albany,1472.0,,170951.0
+2022,wildfire,India,Hyderabad,556.0,1.0,495004.0
+2017,wildfire,Japan,Kobe,1783.0,3.0,94579.0
+2004,tsunami,Texas,Fort Worth,2342.0,11.0,2619298.0
+2018,landslide,Indonesia,Depok,,19.0,401181.0
+2003,earthquake,California,Fresno,565.0,36.0,4854060.0
+2009,tsunami,Japan,Osaka,1883.0,60.0,9027378.0
+2021,flood,New York,Mount Vernon,1365.0,16.0,325055.0
+2000,landslide,Florida,Jacksonville,300.0,8.0,360328.0
+2012,earthquake,India,Jaipur,512.0,6.0,490589.0
+2023,tsunami,Japan,Tokyo,3191.0,46.0,52955958.0
+2006,flood,Philippines,Zamboanga,615.0,6.0,840782.0
+2017,flood,Japan,Nagoya,681.0,3.0,433048.0
+2021,cyclone,Florida,Miami,110.0,6.0,2781293.0
+2006,drought,Japan,Tokyo,1758.0,27.0,308651.0
+2003,earthquake,New York,New York City,6544.0,89.0,2126118.0
+2004,wildfire,New York,Yonkers,409.0,18.0,256890.0
+2014,flood,California,Sacramento,439.0,13.0,8153388.0
+2016,drought,Philippines,Manila,1422.0,,575051.0
+2001,drought,Philippines,Cagayan de Oro,361.0,1.0,209653.0
+2011,landslide,Indonesia,Bandung,1501.0,65.0,301876.0
+2009,flood,Florida,Orlando,484.0,2.0,176760.0
+2004,wildfire,Florida,Tampa,282.0,6.0,148228.0
+2012,drought,Texas,Corpus Christi,1094.0,9.0,362955.0
+2011,landslide,New York,Buffalo,1314.0,2.0,941032.0
+2012,cyclone,Florida,Orlando,1393.0,104.0,1435209.0
+2002,tsunami,Florida,Fort Lauderdale,156.0,17.0,3355741.0
+2006,tsunami,California,Fresno,396.0,36.0,9566797.0
+2021,drought,California,Oakland,664.0,4.0,202761.0
+2021,landslide,India,Bangalore,1605.0,10.0,72521.0
+2000,wildfire,Japan,Kyoto,14656.0,1.0,131541.0
+2019,landslide,Florida,Miami,1586.0,2.0,773674.0
+2004,tsunami,New York,Rochester,2777.0,41.0,207203068.0
+2006,drought,Japan,Sapporo,869.0,11.0,1650429.0
+2000,landslide,Philippines,Quezon City,2515.0,27.0,629254.0
+2002,tsunami,Florida,Jacksonville,806.0,45.0,12167192.0
+2005,landslide,Philippines,Cebu City,332.0,1.0,362000.0
+2020,landslide,Texas,Arlington,,6.0,276565.0
+2002,drought,Philippines,Antipolo,112.0,0.0,554978.0
+2013,flood,Florida,Orlando,558.0,2.0,1571881.0
+2023,drought,Indonesia,Surabaya,3377.0,27.0,5468082.0
+2003,drought,India,Lucknow,1516.0,8.0,
+2005,tsunami,Japan,Nagoya,525.0,,318931.0
+2007,tsunami,India,Mumbai,8047.0,32.0,8860603.0
+2008,landslide,Florida,St. Petersburg,681.0,3.0,121460.0
+2017,tsunami,Texas,San Antonio,,19.0,71946917.0
+2000,landslide,New York,New York City,201.0,9.0,190012.0
+2000,tsunami,Texas,El Paso,6836.0,54.0,1037726.0
+2001,cyclone,California,Santa Ana,596.0,1.0,1583227.0
+2022,tsunami,Florida,Hialeah,2787.0,46.0,1926785.0
+2006,drought,New York,Buffalo,248.0,,30630.0
+2022,flood,Indonesia,Palembang,9537.0,3.0,1251355.0
+2004,landslide,New York,Albany,,5.0,123946.0
+2021,earthquake,India,Delhi,1157.0,25.0,13494831.0
+2019,wildfire,Japan,Kobe,229.0,15.0,179404.0
+2006,wildfire,Philippines,Taguig,319.0,21.0,204140.0
+2012,earthquake,California,San Francisco,2563.0,18.0,6051550.0
+2023,earthquake,India,Pune,2107.0,,204239.0
+2002,cyclone,Texas,El Paso,818.0,20.0,527759.0
+2011,earthquake,New York,Mount Vernon,841.0,8.0,2086977.0
+2008,earthquake,Texas,Dallas,510.0,,1397797.0
+2011,tsunami,Texas,Arlington,10377.0,,179609.0
+2001,landslide,Japan,Yokohama,659.0,8.0,335190.0
+2016,drought,Texas,Fort Worth,,2.0,2762432.0
+2021,landslide,Florida,Fort Lauderdale,238.0,4.0,1082776.0
+2018,landslide,Florida,Fort Lauderdale,885.0,2.0,
+2008,flood,Florida,Tallahassee,378.0,30.0,1844102.0
+2004,flood,Texas,Fort Worth,4983.0,25.0,748436.0
+2017,landslide,Japan,Fukuoka,88.0,0.0,998471.0
+2008,drought,Texas,Austin,756.0,1.0,351729.0
+2006,drought,Florida,Miami,485.0,2.0,565849.0
+2014,drought,Texas,Fort Worth,298.0,9.0,660459.0
+2023,cyclone,Japan,Hiroshima,564.0,,2109353.0
+2008,earthquake,India,Chennai,2892.0,2.0,1638966.0
+2002,wildfire,Philippines,Taguig,298.0,5.0,153949.0
+2007,earthquake,India,Lucknow,14737.0,,10705895.0
+2017,flood,Japan,Kyoto,679.0,54.0,1037514.0
+2007,earthquake,New York,New Rochelle,7203.0,41.0,7433323.0
+2008,landslide,Florida,Hialeah,,24.0,911481.0
+2012,landslide,India,Delhi,743.0,3.0,441571.0
+2005,flood,California,Anaheim,312.0,21.0,1705104.0
+2004,earthquake,Japan,Fukuoka,12541.0,50.0,4240664.0
+2023,earthquake,New York,Rochester,,63.0,2699245.0
+2017,landslide,New York,Mount Vernon,720.0,,800853.0
+2009,earthquake,California,Sacramento,4410.0,93.0,2421809.0
+2013,tsunami,California,Oakland,636.0,52.0,3365448.0
+2006,landslide,Texas,Fort Worth,473.0,23.0,399782.0
+2004,earthquake,New York,Albany,129.0,13.0,1794402.0
+2016,tsunami,Indonesia,Medan,74931.0,314.0,1059863.0
+2008,wildfire,Indonesia,Makassar,86.0,3.0,
+2005,tsunami,California,Fresno,602.0,712.0,7507859.0
+2009,flood,Japan,Sendai,3480.0,27.0,947308.0
+2002,drought,Japan,Tokyo,159.0,8.0,341131.0
+2022,cyclone,New York,Yonkers,,61.0,548852.0
+2014,drought,New York,Buffalo,85.0,,
+2008,cyclone,Florida,Orlando,617.0,,1287627.0
+2020,earthquake,Florida,Tallahassee,2633.0,,7448013.0
+2002,landslide,India,Ahmedabad,920.0,5.0,68243.0
+2005,wildfire,Japan,Sendai,799.0,19.0,1494995.0
+2013,drought,Japan,Nagoya,265.0,,304171.0
+2007,tsunami,Philippines,Taguig,711.0,,3919875.0
+2009,cyclone,New York,Mount Vernon,1990.0,11.0,3118665.0
+2021,landslide,India,Ahmedabad,2228.0,3.0,287219.0
+2001,tsunami,Philippines,Manila,5254.0,,19536650.0
+2009,earthquake,New York,Buffalo,10307.0,25.0,485105.0
+2010,cyclone,Philippines,Cebu City,1413.0,5.0,531416.0
+2008,landslide,Texas,Austin,424.0,9.0,
+2018,cyclone,Philippines,Antipolo,923.0,38.0,2117238.0
+2002,landslide,California,Sacramento,667.0,25.0,1181958.0
+2000,earthquake,Texas,Fort Worth,364.0,3.0,10644190.0
+2007,landslide,Florida,Hialeah,565.0,4.0,144351.0
+2008,tsunami,Florida,Fort Lauderdale,2297.0,16.0,5196891.0
+2022,wildfire,Indonesia,Palembang,1870.0,3.0,213854.0
+2007,earthquake,Indonesia,Palembang,42.0,282.0,2711542.0
+2012,landslide,Texas,El Paso,853.0,,174706.0
+2008,flood,California,Santa Ana,5735.0,31.0,1905249.0
+2003,tsunami,India,Jaipur,26859.0,9.0,5043035.0
+2022,drought,New York,Albany,1342.0,7.0,
+2022,tsunami,Texas,El Paso,126.0,,4126695.0
+2012,tsunami,India,Ahmedabad,5416.0,1.0,15729171.0
+2011,landslide,California,Fresno,4030.0,,808918.0
+2010,flood,Florida,St. Petersburg,1251.0,17.0,2249490.0
+2022,earthquake,Japan,Sapporo,10067.0,158.0,2508178.0
+2009,landslide,California,Sacramento,218.0,10.0,1692554.0
+2007,wildfire,Japan,Osaka,1885.0,3.0,239253.0
+2015,drought,Indonesia,Bekasi,362.0,16.0,849794.0
+2001,wildfire,Indonesia,Tangerang,307.0,17.0,2165786.0
+2005,cyclone,New York,Buffalo,2395.0,21.0,1031894.0
+2007,cyclone,New York,Rochester,678.0,8.0,
+2021,wildfire,Philippines,Davao City,381.0,2.0,947389.0
+2016,cyclone,Texas,Austin,436.0,13.0,4133035.0
+2001,drought,India,Ahmedabad,1098.0,7.0,158747.0
+2018,cyclone,Philippines,Cebu City,4954.0,,650818.0
+2016,drought,India,Lucknow,307.0,6.0,1104628.0
+2006,flood,Philippines,Pasig,236.0,38.0,154833.0
+2000,drought,Texas,Fort Worth,1055.0,1.0,465202.0
+2010,earthquake,Philippines,Quezon City,7693.0,7.0,1728304.0
+2023,wildfire,India,Chennai,1916.0,6.0,358117.0
+2018,drought,Texas,Fort Worth,96.0,14.0,664944.0
+2009,drought,Florida,Orlando,,6.0,60184.0
+2016,tsunami,Japan,Fukuoka,7655.0,11.0,41268116.0
+2005,drought,India,Bangalore,2886.0,2.0,1560431.0
+2023,drought,California,Fresno,565.0,4.0,444960.0
+2009,earthquake,Japan,Tokyo,9938.0,7.0,3072680.0
+2023,cyclone,Philippines,Pasig,1849.0,25.0,595354.0
+2016,landslide,California,San Diego,469.0,8.0,100725.0
+2003,drought,Florida,St. Petersburg,306.0,16.0,190169.0
+2015,wildfire,India,Delhi,1264.0,27.0,524067.0
+2009,earthquake,Philippines,Manila,4046.0,143.0,2914859.0
+2001,wildfire,Philippines,Pasig,312.0,,1011030.0
+2009,wildfire,Philippines,Cebu City,445.0,16.0,256020.0
+2009,landslide,Florida,Tampa,338.0,1.0,3343705.0
+2023,drought,Philippines,Taguig,344.0,11.0,307802.0
+2022,landslide,Indonesia,Surabaya,279.0,10.0,88329.0
+2018,cyclone,Florida,Jacksonville,187.0,2.0,473994.0
+2009,earthquake,Florida,St. Petersburg,3355.0,107.0,1488941.0
+2019,cyclone,California,Anaheim,1708.0,20.0,409310.0
+2021,earthquake,New York,Mount Vernon,873.0,,16571061.0
+2004,flood,Florida,Fort Lauderdale,1588.0,21.0,
+2001,wildfire,Philippines,Zamboanga,410.0,2.0,336042.0
+2023,earthquake,Indonesia,Bandung,8884.0,54.0,14114338.0
+2014,tsunami,Florida,Jacksonville,5305.0,8.0,5431981.0
+2011,flood,Florida,St. Petersburg,459.0,,8379503.0
+2013,drought,New York,Mount Vernon,3165.0,5.0,956276.0
+2021,drought,Indonesia,Surabaya,1807.0,,574251.0
+2000,tsunami,New York,Buffalo,2871.0,50.0,5741228.0
+2001,tsunami,India,Pune,859.0,1.0,1937279.0
+2010,flood,California,Anaheim,104.0,9.0,199399.0
+2009,landslide,India,Mumbai,777.0,,460164.0
+2002,flood,Japan,Kyoto,5836.0,20.0,1230459.0
+2001,earthquake,Indonesia,Jakarta,1810.0,96.0,6549174.0
+2010,landslide,Florida,Tampa,551.0,41.0,2211723.0
+2013,cyclone,Philippines,Caloocan,1203.0,1.0,4312500.0
+2018,flood,Japan,Kyoto,768.0,2.0,3152750.0
+2021,flood,Florida,St. Petersburg,471.0,5.0,370318.0
+2008,landslide,Philippines,Quezon City,2082.0,2.0,134121.0
+2021,earthquake,New York,Yonkers,1028.0,52.0,1841924.0
+2012,flood,Indonesia,Surabaya,102.0,0.0,3058902.0
+2001,flood,Japan,Sendai,1371.0,9.0,150056.0
+2002,cyclone,New York,New Rochelle,30407.0,33.0,558414.0
+2010,drought,Florida,Orlando,284.0,4.0,941910.0
+2015,cyclone,India,Jaipur,840.0,,4723072.0
+2012,earthquake,Japan,Kobe,2364.0,5.0,167911.0
+2008,flood,Japan,Hiroshima,794.0,26.0,784417.0
+2015,earthquake,California,Anaheim,2264.0,19.0,1585689.0
+2010,flood,Florida,St. Petersburg,4100.0,9.0,4143900.0
+2014,tsunami,Philippines,Cagayan de Oro,3663.0,6.0,14226550.0
+2019,wildfire,Indonesia,Depok,991.0,8.0,3473179.0
+2022,landslide,Philippines,Cebu City,196.0,,201429.0
+2008,earthquake,Florida,Jacksonville,918.0,,334885.0
+2006,cyclone,California,San Francisco,3641.0,7.0,
+2001,tsunami,Philippines,Davao City,1077.0,,7367628.0
+2005,drought,California,Sacramento,566.0,90.0,153946.0
+2008,landslide,New York,Syracuse,466.0,4.0,917602.0
+2011,landslide,California,San Francisco,251.0,11.0,
+2007,landslide,India,Bangalore,1259.0,7.0,960409.0
+2013,wildfire,California,Sacramento,5004.0,9.0,
+2009,cyclone,Philippines,Caloocan,1643.0,9.0,1239661.0
+2001,drought,Florida,Miami,2177.0,,254440.0
+2016,tsunami,New York,Rochester,2036.0,,5281311.0
+2007,drought,India,Delhi,574.0,1.0,629920.0
+2002,earthquake,Florida,Tallahassee,66242.0,77.0,3459189.0
+2022,tsunami,India,Ahmedabad,28354.0,18.0,1006706.0
+2017,cyclone,Texas,Corpus Christi,1325.0,133.0,696238.0
+2012,flood,Philippines,Cebu City,1671.0,6.0,1537398.0
+2012,landslide,California,Los Angeles,595.0,2.0,912443.0
+2018,cyclone,Japan,Nagoya,3647.0,4.0,37262.0
+2013,drought,Texas,Fort Worth,651.0,20.0,423216.0
+2012,drought,Japan,Sapporo,670.0,1.0,271676.0
+2002,tsunami,Texas,Corpus Christi,345.0,10.0,1267613.0
+2000,landslide,Indonesia,Surabaya,224.0,8.0,381189.0
+2008,cyclone,Japan,Nagoya,2019.0,6.0,200216.0
+2022,landslide,Indonesia,Medan,2163.0,54.0,588539.0
+2010,drought,India,Lucknow,765.0,,816506.0
+2008,cyclone,Philippines,Davao City,18437.0,6.0,1883428.0
+2006,drought,Texas,Arlington,1558.0,117.0,93562.0
+2010,earthquake,Japan,Osaka,6863.0,1.0,1705194.0
+2012,wildfire,Indonesia,Palembang,3722.0,4.0,131293.0
+2003,earthquake,Indonesia,Bekasi,13825.0,15.0,1381770.0
+2012,cyclone,New York,Rochester,782.0,58.0,1372831.0
+2023,flood,New York,Syracuse,1172.0,23.0,1498320.0
+2010,landslide,Texas,Dallas,380.0,12.0,1453278.0
+2019,earthquake,Florida,Miami,12705.0,7.0,187699.0
+2021,wildfire,Texas,Houston,860.0,16.0,298689.0
+2014,wildfire,Florida,Tampa,1500.0,25.0,317953.0
+2002,landslide,India,Kolkata,535.0,17.0,123683.0
+2021,tsunami,Philippines,Cagayan de Oro,216.0,23.0,285410.0
+2016,cyclone,New York,Syracuse,54.0,22.0,551701.0
+2023,drought,California,Anaheim,2158.0,8.0,44169.0
+2015,cyclone,Texas,San Antonio,711.0,4.0,1642713.0
+2002,wildfire,New York,Mount Vernon,294.0,8.0,126776.0
+2010,tsunami,California,Fresno,2002.0,8.0,
+2014,wildfire,New York,New Rochelle,910.0,14.0,866853.0
+2003,cyclone,Texas,Fort Worth,9180.0,2.0,11285321.0
+2020,drought,Texas,Corpus Christi,264.0,4.0,564183.0
+2020,drought,Florida,Fort Lauderdale,415.0,3.0,340680.0
+2017,flood,Florida,Miami,5119.0,8.0,
+2003,flood,Japan,Kyoto,4757.0,2.0,5248012.0
+2020,landslide,Florida,Jacksonville,600.0,,428578.0
+2019,landslide,Japan,Kobe,5104.0,4.0,494040.0
+2011,tsunami,Florida,Hialeah,681.0,3.0,41583725.0
+2012,cyclone,Florida,St. Petersburg,2552.0,,1129161.0
+2001,flood,Indonesia,Jakarta,375.0,22.0,422875.0
+2007,tsunami,New York,Buffalo,1055.0,25.0,664133.0
+2000,flood,Indonesia,Bekasi,1052.0,1.0,95187.0
+2018,earthquake,California,Los Angeles,2372.0,247.0,6341463.0
+2023,flood,India,Kolkata,720.0,9.0,847045.0
+2006,drought,Indonesia,Makassar,444.0,4.0,1027023.0
+2008,earthquake,India,Delhi,1017.0,67.0,7248763.0
+2007,flood,Philippines,Caloocan,3071.0,2.0,926993.0
+2023,wildfire,Florida,Fort Lauderdale,932.0,4.0,1173748.0
+2021,earthquake,Florida,Fort Lauderdale,2984.0,3.0,
+2010,cyclone,New York,Syracuse,330.0,85.0,13119949.0
+2000,drought,Japan,Yokohama,985.0,12.0,940094.0
+2007,cyclone,Texas,Arlington,373.0,44.0,2203506.0
+2006,tsunami,Indonesia,Semarang,1266.0,7.0,700341.0
+2015,drought,India,Mumbai,1997.0,6.0,136281.0
+2011,flood,California,Anaheim,1438.0,16.0,1941698.0
+2002,landslide,Japan,Fukuoka,595.0,,254512.0
+2001,tsunami,Indonesia,Depok,3753.0,42.0,859302.0
+2001,earthquake,India,Hyderabad,10202.0,68.0,13675652.0
+2023,tsunami,India,Hyderabad,18540.0,0.0,3296769.0
+2015,landslide,Philippines,Quezon City,935.0,33.0,476636.0
+2004,landslide,California,San Diego,1854.0,9.0,130582.0
+2017,cyclone,Florida,Hialeah,6304.0,31.0,8266423.0
+2000,flood,Florida,Tallahassee,1924.0,,
+2007,drought,Philippines,Taguig,467.0,7.0,337298.0
+2004,tsunami,Florida,St. Petersburg,1143.0,,778894.0
+2021,landslide,Texas,Arlington,478.0,46.0,268046.0
+2005,landslide,India,Jaipur,1074.0,,147114.0
+2023,cyclone,Indonesia,Jakarta,268.0,18.0,423955.0
+2008,tsunami,New York,Mount Vernon,14700.0,336.0,9627373.0
+2015,tsunami,Indonesia,Surabaya,29599.0,6.0,18957595.0
+2014,tsunami,Japan,Fukuoka,28201.0,10.0,10422749.0
+2004,tsunami,Japan,Sapporo,8849.0,17.0,392806.0
+2022,cyclone,Japan,Fukuoka,3167.0,13.0,769783.0
+2002,cyclone,New York,Buffalo,609.0,5.0,508453.0
+2011,cyclone,Florida,Tallahassee,725.0,10.0,399663.0
+2000,tsunami,India,Jaipur,162.0,76.0,454995.0
+2002,cyclone,India,Delhi,130.0,4.0,1409853.0
+2005,landslide,Philippines,Pasig,598.0,25.0,103581.0
+2012,cyclone,Japan,Hiroshima,609.0,44.0,330493.0
+2001,earthquake,Indonesia,Depok,9854.0,,286207.0
+2011,earthquake,Texas,Houston,1042.0,157.0,6864045.0
+2014,wildfire,India,Chennai,153.0,5.0,113456.0
+2002,tsunami,India,Jaipur,199.0,9.0,461905.0
+2008,cyclone,Philippines,Zamboanga,629.0,0.0,2105589.0
+2009,flood,Florida,Fort Lauderdale,2829.0,,563553.0
+2022,tsunami,New York,Mount Vernon,18113.0,74.0,50906429.0
+2012,cyclone,India,Delhi,478.0,10.0,
+2016,drought,Florida,Orlando,869.0,3.0,
+2018,tsunami,India,Kolkata,17402.0,22.0,1327995.0
+2023,drought,India,Jaipur,867.0,,514542.0
+2001,tsunami,New York,Rochester,1140.0,6.0,1831312.0
+2018,earthquake,India,Kolkata,2205.0,11.0,
+2021,tsunami,India,Ahmedabad,8152.0,12.0,35344071.0
+2002,landslide,Japan,Hiroshima,1004.0,3.0,541124.0
+2018,drought,Philippines,Quezon City,1431.0,20.0,1089822.0
+2023,flood,Philippines,Manila,414.0,34.0,1107775.0
+2002,drought,Japan,Kyoto,684.0,3.0,1024615.0
+2019,earthquake,India,Chennai,1426.0,2.0,1505641.0
+2017,cyclone,Texas,Dallas,2305.0,,906053.0
+2009,cyclone,New York,Syracuse,2493.0,11.0,3043997.0
+2021,flood,Florida,Jacksonville,2301.0,22.0,1637981.0
+2007,drought,India,Jaipur,1566.0,4.0,369856.0
+2001,cyclone,Philippines,Antipolo,324.0,6.0,2365975.0
+2001,landslide,Philippines,Quezon City,1241.0,1.0,72534.0
+2008,earthquake,New York,Yonkers,17569.0,107.0,22112257.0
+2003,wildfire,Japan,Osaka,5424.0,1.0,455553.0
+2000,drought,Florida,Fort Lauderdale,1023.0,2.0,686024.0
+2013,earthquake,Indonesia,Surabaya,2920.0,11.0,19571354.0
+2015,earthquake,Philippines,Caloocan,846.0,18.0,2755656.0
+2003,cyclone,Texas,Corpus Christi,9053.0,123.0,6960408.0
+2021,cyclone,Texas,Fort Worth,944.0,,192230.0
+2005,tsunami,Florida,St. Petersburg,541.0,5.0,23066354.0
+2019,cyclone,Texas,Arlington,1293.0,2.0,162427.0
+2016,flood,California,Anaheim,6902.0,52.0,567926.0
+2000,cyclone,Florida,Fort Lauderdale,459.0,5.0,298541.0
+2009,tsunami,New York,Yonkers,1032.0,34.0,1187243.0
+2015,cyclone,Indonesia,Semarang,254.0,26.0,1017518.0
+2000,tsunami,California,San Diego,4066.0,29.0,5036588.0
+2014,drought,India,Pune,1091.0,4.0,226404.0
+2014,wildfire,Florida,Orlando,529.0,,661501.0
+2004,wildfire,New York,Rochester,2492.0,25.0,1053960.0
+2004,landslide,Florida,Miami,187.0,44.0,291790.0
+2023,wildfire,Philippines,Cebu City,1216.0,2.0,1838807.0
+2013,cyclone,Philippines,Antipolo,,256.0,1305400.0
+2012,flood,Philippines,Zamboanga,,35.0,148978.0
+2012,drought,Philippines,Pasig,1186.0,,2064587.0
+2008,wildfire,Indonesia,Medan,2334.0,4.0,159013.0
+2017,earthquake,India,Delhi,289.0,210.0,9910587.0
+2006,flood,Japan,Sapporo,673.0,5.0,1070937.0
+2003,tsunami,Philippines,Cebu City,1892.0,151.0,2446193.0
+2010,drought,India,Lucknow,2897.0,,649654.0
+2019,flood,Texas,Corpus Christi,528.0,,1630642.0
+2015,drought,Indonesia,Bandung,110.0,36.0,490675.0
+2021,cyclone,California,Anaheim,95.0,2.0,2228541.0
+2002,tsunami,Indonesia,Palembang,30514.0,2.0,3568565.0
+2021,drought,New York,Mount Vernon,295.0,8.0,201355.0
+2003,wildfire,Indonesia,Tangerang,815.0,17.0,238779.0
+2013,tsunami,India,Hyderabad,2067.0,108.0,134909.0
+2019,tsunami,New York,New Rochelle,4799.0,8.0,6325438.0
+2014,wildfire,Florida,Fort Lauderdale,328.0,5.0,335705.0
+2023,drought,Japan,Fukuoka,473.0,4.0,424440.0
+2020,landslide,California,Sacramento,192.0,5.0,824829.0
+2006,tsunami,Indonesia,Bekasi,45048.0,8.0,49880137.0
+2002,flood,Indonesia,Makassar,2980.0,5.0,
+2017,drought,New York,New Rochelle,44.0,9.0,715506.0
+2006,tsunami,India,Chennai,3698.0,17.0,4141641.0
+2013,earthquake,New York,New Rochelle,4738.0,12.0,4886933.0
+2019,earthquake,New York,New York City,3772.0,100.0,9191325.0
+2016,landslide,New York,Albany,792.0,,379974.0
+2020,earthquake,Florida,Fort Lauderdale,640.0,10.0,29044764.0
+2007,flood,Florida,Tallahassee,1028.0,81.0,222505.0
+2010,flood,India,Pune,756.0,8.0,3348858.0
+2007,tsunami,New York,Rochester,19024.0,38.0,5808760.0
+2010,wildfire,California,Anaheim,92.0,17.0,162929.0
+2023,drought,Florida,Jacksonville,278.0,16.0,480556.0
+2015,flood,Japan,Yokohama,510.0,4.0,5001604.0
+2002,flood,New York,Albany,237.0,7.0,1728190.0
+2002,cyclone,New York,Buffalo,2366.0,,270824.0
+2009,drought,California,Anaheim,121.0,15.0,120487.0
+2000,earthquake,Texas,San Antonio,18086.0,20.0,3565433.0
+2018,wildfire,Philippines,Pasig,509.0,1.0,220173.0
+2014,cyclone,Philippines,Taguig,781.0,53.0,385099.0
+2006,flood,New York,New York City,369.0,5.0,595557.0
+2001,flood,India,Bangalore,198.0,,113840.0
+2009,cyclone,Japan,Kobe,185.0,6.0,506418.0
+2003,tsunami,Texas,Dallas,,10.0,6346888.0
+2012,cyclone,Florida,Miami,445.0,37.0,143691.0
+2001,flood,New York,Mount Vernon,245.0,33.0,1219954.0
+2019,drought,Florida,St. Petersburg,489.0,2.0,207966.0
+2014,wildfire,Japan,Fukuoka,1556.0,13.0,1172046.0
+2000,drought,India,Lucknow,190.0,7.0,1240046.0
+2000,wildfire,New York,New Rochelle,341.0,35.0,242038.0
+2007,drought,Indonesia,Surabaya,201.0,,545930.0
+2002,tsunami,Japan,Fukuoka,23036.0,50.0,10282099.0
+2016,wildfire,New York,New Rochelle,642.0,2.0,246410.0
+2006,tsunami,Japan,Fukuoka,1183.0,,
+2008,flood,Philippines,Taguig,183.0,,5139434.0
+2015,earthquake,India,Jaipur,11923.0,6.0,16944735.0
+2014,tsunami,India,Delhi,1360.0,10.0,4620377.0
+2005,earthquake,Indonesia,Makassar,11.0,22.0,6577270.0
+2021,wildfire,Indonesia,Surabaya,363.0,,279327.0
+2015,tsunami,Florida,Orlando,20951.0,84.0,221618.0
+2021,wildfire,Indonesia,Medan,1964.0,1.0,118090.0
+2018,drought,Indonesia,Bekasi,192.0,21.0,1118413.0
+2003,wildfire,India,Mumbai,348.0,7.0,113626.0
+2016,wildfire,India,Pune,551.0,,330772.0
+2006,cyclone,Texas,San Antonio,693.0,,4003515.0
+2002,drought,India,Mumbai,1278.0,,654310.0
+2014,earthquake,Philippines,Taguig,851.0,,8959822.0
+2003,drought,Japan,Yokohama,913.0,5.0,970174.0
+2020,tsunami,New York,Syracuse,267.0,,779134.0
+2013,wildfire,India,Delhi,890.0,7.0,1058980.0
+2016,flood,India,Delhi,2639.0,142.0,
+2015,flood,Japan,Fukuoka,7676.0,86.0,1124425.0
+2017,wildfire,New York,New York City,856.0,2.0,1858660.0
+2013,wildfire,Philippines,Cebu City,946.0,11.0,
+2004,landslide,New York,Albany,1160.0,19.0,659338.0
+2008,cyclone,Texas,El Paso,11426.0,27.0,7597071.0
+2014,flood,Japan,Kobe,2246.0,83.0,99023.0
+2012,cyclone,California,San Diego,816.0,75.0,184854.0
+2020,flood,Florida,Orlando,5749.0,64.0,4479661.0
+2020,landslide,India,Jaipur,1815.0,0.0,1013130.0
+2019,flood,Florida,Tallahassee,297.0,1.0,2529660.0
+2012,wildfire,Florida,Tampa,2709.0,38.0,1225444.0
+2018,earthquake,Florida,Tampa,531.0,161.0,3442661.0
+2019,earthquake,Texas,Dallas,2305.0,130.0,1394607.0
+2007,landslide,Japan,Osaka,913.0,,84760.0
+2003,earthquake,Texas,Arlington,1078.0,12.0,800868.0
+2002,tsunami,Philippines,Cagayan de Oro,383.0,49.0,10359475.0
+2021,landslide,New York,Yonkers,415.0,34.0,44625.0
+2000,flood,India,Ahmedabad,1576.0,49.0,474466.0
+2004,drought,Indonesia,Makassar,202.0,53.0,432749.0
+2022,wildfire,New York,Rochester,304.0,29.0,633921.0
+2001,flood,India,Chennai,774.0,0.0,3565853.0
+2015,wildfire,New York,Mount Vernon,235.0,15.0,3456341.0
+2006,landslide,Indonesia,Medan,912.0,13.0,2448878.0
+2022,wildfire,New York,Mount Vernon,1434.0,9.0,1962244.0
+2017,drought,Texas,Fort Worth,440.0,8.0,684685.0
+2001,earthquake,Philippines,Manila,587.0,41.0,597453.0
+2009,tsunami,India,Ahmedabad,627.0,252.0,4721662.0
+2009,flood,Florida,St. Petersburg,2623.0,4.0,777084.0
+2010,flood,India,Jaipur,520.0,,1707013.0
+2021,earthquake,California,San Diego,23538.0,28.0,3177809.0
+2014,drought,New York,Buffalo,621.0,25.0,750921.0
+2009,tsunami,Philippines,Taguig,1465.0,8.0,129417590.0
+2021,cyclone,Florida,Hialeah,1632.0,1.0,5412708.0
+2021,landslide,New York,Syracuse,3664.0,17.0,5006225.0
+2011,cyclone,Japan,Kobe,574.0,8.0,1593768.0
+2007,wildfire,New York,Syracuse,461.0,3.0,
+2014,wildfire,New York,Mount Vernon,489.0,1.0,242356.0
+2022,tsunami,Philippines,Cebu City,885.0,50.0,1382554.0
+2007,wildfire,New York,Yonkers,4814.0,,1396829.0
+2013,earthquake,Texas,Arlington,6246.0,,9715583.0
+2015,flood,Philippines,Taguig,914.0,,1336090.0
+2013,drought,New York,Buffalo,792.0,25.0,747155.0
