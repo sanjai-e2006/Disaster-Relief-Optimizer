@@ -97,106 +97,135 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Simple, clean CSS
+# Enhanced CSS with better visibility and contrast
 st.markdown("""
 <style>
-    .main-header {
-        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-        padding: 2rem;
-        border-radius: 10px;
-        color: white;
-        text-align: center;
-        margin-bottom: 2rem;
+    /* Force dark text and visible elements */
+    * {
+        color: #262730 !important;
     }
     
+    /* Main header with strong colors */
+    .main-header {
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%) !important;
+        padding: 2rem;
+        border-radius: 10px;
+        color: white !important;
+        text-align: center;
+        margin-bottom: 2rem;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.3) !important;
+    }
+    
+    .main-header h1, .main-header p {
+        color: white !important;
+    }
+    
+    /* Input container with strong background */
     .input-container {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
         padding: 1.5rem;
         border-radius: 10px;
         margin-bottom: 2rem;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        box-shadow: 0 8px 16px rgba(0,0,0,0.3) !important;
     }
     
-    .input-container h3 {
+    .input-container h3, .input-container * {
         color: white !important;
-        margin: 0;
-        font-size: 1.4rem;
     }
     
+    /* Result container with bright background */
     .result-container {
-        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%) !important;
         padding: 1.5rem;
         border-radius: 10px;
         border: none;
         margin-bottom: 1rem;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        box-shadow: 0 8px 16px rgba(0,0,0,0.3) !important;
     }
     
-    .result-container h3 {
+    .result-container h3, .result-container * {
         color: white !important;
-        margin: 0;
-        font-size: 1.4rem;
     }
     
+    /* Severity badges */
     .severity-high {
-        background: #dc3545;
-        color: white;
+        background: #dc3545 !important;
+        color: white !important;
         padding: 1rem;
         border-radius: 8px;
         text-align: center;
         font-size: 1.5rem;
         font-weight: bold;
+        box-shadow: 0 4px 12px rgba(220,53,69,0.5) !important;
     }
     
     .severity-medium {
-        background: #ffc107;
-        color: black;
+        background: #ffc107 !important;
+        color: #000 !important;
         padding: 1rem;
         border-radius: 8px;
         text-align: center;
         font-size: 1.5rem;
         font-weight: bold;
+        box-shadow: 0 4px 12px rgba(255,193,7,0.5) !important;
     }
     
     .severity-low {
-        background: #28a745;
-        color: white;
+        background: #28a745 !important;
+        color: white !important;
         padding: 1rem;
         border-radius: 8px;
         text-align: center;
         font-size: 1.5rem;
         font-weight: bold;
+        box-shadow: 0 4px 12px rgba(40,167,69,0.5) !important;
     }
     
-    .stButton > button {
-        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-        color: white;
-        border: none;
-        border-radius: 8px;
-        padding: 0.5rem 2rem;
-        font-size: 1.1rem;
-        font-weight: 600;
-        width: 100%;
-    }
-    
-    /* Sidebar Styles */
-    .sidebar .sidebar-content {
-        background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
-    }
-    
-    /* Sidebar button styling */
-    section[data-testid="stSidebar"] .stButton > button {
-        background: rgba(255,255,255,0.1) !important;
+    /* Main content buttons */
+    div[data-testid="main"] .stButton > button {
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%) !important;
         color: white !important;
-        border: 1px solid rgba(255,255,255,0.2) !important;
+        border: none !important;
+        border-radius: 8px !important;
+        padding: 0.8rem 2rem !important;
+        font-size: 1.1rem !important;
+        font-weight: 600 !important;
+        box-shadow: 0 4px 12px rgba(102,126,234,0.4) !important;
+    }
+    
+    div[data-testid="main"] .stButton > button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 16px rgba(102,126,234,0.6) !important;
+    }
+    
+    /* Sidebar with strong gradient background */
+    section[data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #667eea 0%, #764ba2 100%) !important;
+    }
+    
+    section[data-testid="stSidebar"] * {
+        color: white !important;
+    }
+    
+    /* Sidebar buttons with better visibility */
+    section[data-testid="stSidebar"] .stButton > button {
+        background: rgba(255,255,255,0.2) !important;
+        color: white !important;
+        border: 2px solid rgba(255,255,255,0.3) !important;
         border-radius: 8px !important;
         padding: 0.8rem 1rem !important;
         font-size: 1rem !important;
-        font-weight: 500 !important;
+        font-weight: 600 !important;
         width: 100% !important;
         text-align: left !important;
         margin: 0.3rem 0 !important;
-        transition: all 0.3s ease !important;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.2) !important;
+    }
+    
+    section[data-testid="stSidebar"] .stButton > button:hover {
+        background: rgba(255,255,255,0.3) !important;
+        border-color: rgba(255,255,255,0.5) !important;
+        transform: translateX(5px);
     }
     
     section[data-testid="stSidebar"] .stButton > button:hover {
