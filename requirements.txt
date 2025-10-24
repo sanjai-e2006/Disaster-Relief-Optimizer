@@ -1,23 +1,11 @@
-# Disaster Relief Resource Optimizer
-# Dependencies for the complete application
-
-# Core data science libraries
-pandas>=2.0.0
-numpy>=1.24.0
-scikit-learn>=1.3.0
-joblib>=1.3.0
-
-# Visualization libraries
-matplotlib>=3.7.0
-seaborn>=0.12.0
-plotly>=5.14.0
-
-# Web framework
-streamlit>=1.28.0
-
-# Authentication and database
-supabase>=2.0.0
-
-# Additional utilities
-requests>=2.31.0
-python-dotenv>=1.0.0
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+plotly
+streamlit
+supabase
+requests
+python-dotenv
